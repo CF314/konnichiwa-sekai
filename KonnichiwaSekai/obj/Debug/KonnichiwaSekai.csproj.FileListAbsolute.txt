@@ -1,0 +1,15 @@
+c:\users\kay\documents\visual studio 2017\Projects\KonnichiwaSekai\KonnichiwaSekai\bin\Debug\KonnichiwaSekai.exe.config
+c:\users\kay\documents\visual studio 2017\Projects\KonnichiwaSekai\KonnichiwaSekai\bin\Debug\KonnichiwaSekai.xml
+c:\users\kay\documents\visual studio 2017\Projects\KonnichiwaSekai\KonnichiwaSekai\bin\Debug\KonnichiwaSekai.exe
+c:\users\kay\documents\visual studio 2017\Projects\KonnichiwaSekai\KonnichiwaSekai\bin\Debug\KonnichiwaSekai.pdb
+c:\users\kay\documents\visual studio 2017\Projects\KonnichiwaSekai\KonnichiwaSekai\obj\Debug\KonnichiwaSekai.csprojResolveAssemblyReference.cache
+c:\users\kay\documents\visual studio 2017\Projects\KonnichiwaSekai\KonnichiwaSekai\obj\Debug\MainWindow.g.cs
+c:\users\kay\documents\visual studio 2017\Projects\KonnichiwaSekai\KonnichiwaSekai\obj\Debug\App.g.cs
+c:\users\kay\documents\visual studio 2017\Projects\KonnichiwaSekai\KonnichiwaSekai\obj\Debug\KonnichiwaSekai_MarkupCompile.cache
+c:\users\kay\documents\visual studio 2017\Projects\KonnichiwaSekai\KonnichiwaSekai\obj\Debug\KonnichiwaSekai_MarkupCompile.lref
+c:\users\kay\documents\visual studio 2017\Projects\KonnichiwaSekai\KonnichiwaSekai\obj\Debug\MainWindow.baml
+c:\users\kay\documents\visual studio 2017\Projects\KonnichiwaSekai\KonnichiwaSekai\obj\Debug\KonnichiwaSekai.g.resources
+c:\users\kay\documents\visual studio 2017\Projects\KonnichiwaSekai\KonnichiwaSekai\obj\Debug\KonnichiwaSekai.Properties.Resources.resources
+c:\users\kay\documents\visual studio 2017\Projects\KonnichiwaSekai\KonnichiwaSekai\obj\Debug\KonnichiwaSekai.csproj.GenerateResource.Cache
+c:\users\kay\documents\visual studio 2017\Projects\KonnichiwaSekai\KonnichiwaSekai\obj\Debug\KonnichiwaSekai.exe
+c:\users\kay\documents\visual studio 2017\Projects\KonnichiwaSekai\KonnichiwaSekai\obj\Debug\KonnichiwaSekai.pdb
